@@ -2,9 +2,9 @@
 #include<conio.h>
 void main()
 {
-    int a,b,c;
+    int a,b,k;
     scanf("%d%d",&a,&b);
-    c=a+b;
-    printf("%d",c);
+    k=a-b;
+    printf("%d",k);
     getch();
 }
