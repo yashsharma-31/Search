@@ -3,7 +3,6 @@
 void main()
 {
     int a[20],l,e,m,s,f=0,i,n;
-    clrscr();
     printf("NOTE:- ENTER THE VALUES IN INCREASING ORDER\n");
     printf("Enter No. of elements\n");
     scanf("%d",&n);
